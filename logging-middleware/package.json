@@ -1,0 +1,11 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "logger.js",
+  "description": "AffordMed evaluation service logging middleware",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
